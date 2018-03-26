@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
   s.version      = "1.1.0"
   s.summary      = "随意设置APP 接口服务器地址"
   s.description  = "任意界面通过摇一摇唤起IP地址管理器，设置APP 接口服务器地址,支持新增、删除、修改，历史记录。"
-  s.homepage     = "http://https://github.com/ihomelp07/TLIPManager"
+  s.homepage     = "https://github.com/ihomelp07/TLIPManager"
   s.license      = { :type => "MIT", :file => "LICENSE" }
-  s.author       = { "TedLiu" => "ihomelp07@gmail.com" }
+  s.author       = { "ted.liu" => "heycoding@gmail.com" }
   s.platform     = :ios, "9.0"
   s.ios.deployment_target = "9.0"
   s.source       = { :git => "https://github.com/ihomelp07/TLIPManager.git", :tag => s.version}
