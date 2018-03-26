@@ -504,4 +504,6 @@ static NSString *reuseIdentifier = @"IPManagerListCell";
 }
 */
 
+@synthesize currentStatus;
+
 @end

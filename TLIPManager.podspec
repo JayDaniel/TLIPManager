@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "TLIPManager"
-  s.version      = "1.0.2"
+  s.version      = "1.1.0"
   s.summary      = "随意设置APP 接口服务器地址"
   s.description  = "任意界面通过摇一摇唤起IP地址管理器，设置APP 接口服务器地址,支持新增、删除、修改，历史记录。"
   s.homepage     = "http://https://github.com/ihomelp07/TLIPManager"
